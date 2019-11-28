@@ -5,7 +5,7 @@ This html file with embedded javascript creates a fake source code miniature loo
 
 Each line of source code will be represented by a 1 pixel line in the output. The lines are separated by a 1 pixel horizontal space. The length of the lines and the indention is randomized. 
 
-The output can be tweated by the following parameters in the html file.
+The output can be tweaked by the following parameters in the html file.
 ```
 min=5 
 max=80
